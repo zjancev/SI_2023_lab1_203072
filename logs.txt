@@ -1,0 +1,71 @@
+$ git log
+commit f0d30f07915b7cca6738d64f2f2cf3ced8d3af1e (HEAD -> master, origin/master)
+Merge: ce87fb3 665d020
+Author: Zvezdan <zvezdanjancev@hotmail.com>
+Date:   Sat Apr 1 12:08:52 2023 +0200
+
+    Merge branch 'master' of https://github.com/zjancev/SI_2023_lab1_203072
+
+commit ce87fb3b22d97ab23e72a480565cd7db67e6cf57
+Merge: b274f2f 58bae7b
+Author: Zvezdan <zvezdanjancev@hotmail.com>
+Date:   Sat Apr 1 03:02:15 2023 +0200
+
+    Merge branch' bug2'
+
+commit 665d0205d630200103318dbfba7f611fc8d02a6f
+Merge: 694ccac e1efa19
+Author: zjancev <127028177+zjancev@users.noreply.github.com>
+Date:   Sat Apr 1 02:58:53 2023 +0200
+
+    Merge pull request #3 from zjancev/bug3
+
+    Fix method sumEvenNumbers
+
+commit 694ccac70afa983b3eae5d5ee549fa9ed242281e
+Merge: c289ead 58bae7b
+Author: zjancev <127028177+zjancev@users.noreply.github.com>
+Date:   Sat Apr 1 02:58:35 2023 +0200
+
+    Merge pull request #2 from zjancev/bug2
+
+    Fix wrong condition in filterOddNumbers
+
+commit c289ead8bf49cc7fc030ab3f3917df502a6ed8f0
+Merge: d06d510 b274f2f
+Author: zjancev <127028177+zjancev@users.noreply.github.com>
+Date:   Sat Apr 1 02:58:13 2023 +0200
+
+    Merge pull request #1 from zjancev/bug1
+
+    Fix wrong loop for reading
+
+commit e1efa19a2d6bef119f4bde535d9b0fc8a5fd98b8 (origin/bug3, bug3)
+Author: Zvezdan <zvezdanjancev@hotmail.com>
+Date:   Sat Apr 1 02:51:54 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 58bae7be6d28ee29e07154fbc93469bd0528f551 (origin/bug2, bug2)
+Author: Zvezdan <zvezdanjancev@hotmail.com>
+Date:   Sat Apr 1 02:39:07 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit b274f2fb9dce083494ba260ee02d35ce62bae7f1 (origin/bug1, bug1)
+Author: Zvezdan <zvezdanjancev@hotmail.com>
+Date:   Sat Apr 1 02:35:59 2023 +0200
+
+    Fix wrong loop for reading
+
+commit d06d510222ce1592358ea09e1967cd956aa15fb2
+Author: Zvezdan <zvezdanjancev@hotmail.com>
+Date:   Thu Mar 30 23:38:26 2023 +0200
+
+    Add java class
+
+commit 8ed04767f92e9cdeb504780d14948435c15fb6a2
+Author: Zvezdan <zvezdanjancev@hotmail.com>
+Date:   Thu Mar 30 23:36:15 2023 +0200
+
+    Initial commit

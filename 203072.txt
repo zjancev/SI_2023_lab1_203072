@@ -1,0 +1,30 @@
+1. $ mkdir SI_2023_lab1_203072
+2. $ cd SI_2023_lab1_203072
+3. $ git init
+4. $ git remote add origin https://github.com/zjancev/SI_2023_lab1_203072
+5. $ nano README.md
+6.$ git add .
+8. $ git commit -m 'Initial commit'
+9. $ nano SILab1.java
+10. $ git add .
+11. $ git commit -m 'Add java class'
+12. $ git push --set-upstream origin master
+13. $ git branch bug1
+14. $ git branch bug2
+
+15. $ git branch bug3
+16. $ git checkout bug1
+17. $ git add .
+
+18. $ git commit -m 'Fix wrong loop for reading'
+
+19. $ git checkout bug2
+    $ git add .
+
+20. $ git commit -m 'Fix wrong condition in filterOddNumbers'
+
+21. $ git checkout bug3
+
+22. $ git log
+
+23. $ nano logs.txt
