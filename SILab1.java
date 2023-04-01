@@ -14,7 +14,7 @@ public class SILab1 {
     }
 
     private static int sumEvenNumbers(List<Integer> list) {
-        int sum = 1;
+        int sum = 0;
         for (Integer el : list) {
             if (el % 2 == 0) {
                 sum *= el;
